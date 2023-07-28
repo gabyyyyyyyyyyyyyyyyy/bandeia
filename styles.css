@@ -1,0 +1,49 @@
+body {
+    background-color: gray;
+    margin: 0;
+}
+
+
+.flag {
+    width: 600px;
+    margin: 40px;
+    background-color: white;
+}
+
+#one,
+#two,
+#three,
+#four,
+#five {
+    height: 150px;
+    background-color: pink;
+}
+
+#two {
+    background-color: blueviolet;
+}
+
+#three {
+    background-color: aqua;
+}
+
+#four {
+    background-color: white;
+}
+
+#five {
+    background-color: red;
+}
+
+#white {
+    height: 150px;
+    background-color: white;
+}
+
+#red {
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    border-radius: 100%;
+    margin-left: 220px;
+}
